@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab&titles=true" alt="skill icons" title="skill icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,jupyter,scikitlearn,pytorch,tensorflow,opencv,langchain,cpp,vue,nodejs,react,django,md,latex,matlab,linux&titles=true" alt="skill icons" title="skill icons">
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
