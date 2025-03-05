@@ -29,16 +29,7 @@
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/MilleXi"><img src="https://img.shields.io/badge/GitHub-MilleXi-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://millexi.github.io/" alt="GitHub" title="GitHub">
-        <svg t="1741146131557" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1653" width="50" height="50">
-        <path d="M51.2 0h716.8a256 256 0 0 1 256 256v716.8a51.2 51.2 0 0 1-51.2 51.2H256A256 256 0 0 1 0 768V51.2a51.2 51.2 0 0 1 51.2-51.2z" fill="#F5AD30" p-id="1654"></path>
-        <path d="M140.8 435.2m51.2 0l640 0q51.2 0 51.2 51.2l0 320q0 51.2-51.2 51.2l-640 0q-51.2 0-51.2-51.2l0-320q0-51.2 51.2-51.2Z" fill="#FFFFFF" p-id="1655"></path>
-        <path d="M192 179.2h435.2a128 128 0 0 1 128 128v192a51.2 51.2 0 0 1-51.2 51.2h-512a51.2 51.2 0 0 1-51.2-51.2v-268.8a51.2 51.2 0 0 1 51.2-51.2z" fill="#FFFFFF" p-id="1656"></path>
-        <path d="M256 281.6m38.4 0l204.8 0q38.4 0 38.4 38.4l0 0q0 38.4-38.4 38.4l-204.8 0q-38.4 0-38.4-38.4l0 0q0-38.4 38.4-38.4Z" fill="#F5AD30" p-id="1657"></path>
-        <path d="M256 486.4m38.4 0l128 0q38.4 0 38.4 38.4l0 0q0 38.4-38.4 38.4l-128 0q-38.4 0-38.4-38.4l0 0q0-38.4 38.4-38.4Z" fill="#F5AD30" p-id="1658"></path>
-        <path d="M256 678.4m38.4 0l371.2 0q38.4 0 38.4 38.4l0 0q0 38.4-38.4 38.4l-371.2 0q-38.4 0-38.4-38.4l0 0q0-38.4 38.4-38.4Z" fill="#F5AD30" p-id="1659"></path>
-        </svg>
-    </a>
+    <a href="https://millexi.github.io/"><img src="data:image/svg+xml;base64,YOUR_BASE64_ENCODED_SVG" alt="Blog" title="Blog" /></a>
     <a href="https://space.bilibili.com/489259101"><img src="https://img.shields.io/badge/哔哩哔哩-溪深鱼肥-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <a href="https://wakatime.com/@72a2ddd8-f2c7-4f9a-8fa8-56e3db6eb176"><img src="https://wakatime.com/badge/user/72a2ddd8-f2c7-4f9a-8fa8-56e3db6eb176.svg" alt="wakatime" title="wakatime"/></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
