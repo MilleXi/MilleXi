@@ -29,7 +29,7 @@
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/MilleXi"><img src="https://img.shields.io/badge/GitHub-MilleXi-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://millexi.github.io/">
+    <a href="https://millexi.github.io/" alt="GitHub" title="GitHub">
         <svg t="1741146131557" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1653" width="50" height="50">
         <path d="M51.2 0h716.8a256 256 0 0 1 256 256v716.8a51.2 51.2 0 0 1-51.2 51.2H256A256 256 0 0 1 0 768V51.2a51.2 51.2 0 0 1 51.2-51.2z" fill="#F5AD30" p-id="1654"></path>
         <path d="M140.8 435.2m51.2 0l640 0q51.2 0 51.2 51.2l0 320q0 51.2-51.2 51.2l-640 0q-51.2 0-51.2-51.2l0-320q0-51.2 51.2-51.2Z" fill="#FFFFFF" p-id="1655"></path>
