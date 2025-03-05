@@ -29,7 +29,7 @@
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/MilleXi"><img src="https://img.shields.io/badge/GitHub-MilleXi-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://millexi.github.io/"><img src="data:image/svg+xml;base64,YOUR_BASE64_ENCODED_SVG" alt="Blog" title="Blog" /></a>
+    <a href="https://millexi.github.io/"><img src="https://github.com/MilleXi/MilleXi/blob/main/blogIcon.svg" alt="Blog" title="Blog" /></a>
     <a href="https://space.bilibili.com/489259101"><img src="https://img.shields.io/badge/哔哩哔哩-溪深鱼肥-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <a href="https://wakatime.com/@72a2ddd8-f2c7-4f9a-8fa8-56e3db6eb176"><img src="https://wakatime.com/badge/user/72a2ddd8-f2c7-4f9a-8fa8-56e3db6eb176.svg" alt="wakatime" title="wakatime"/></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
